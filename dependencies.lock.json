@@ -1,0 +1,35 @@
+{
+  "lovely": {
+    "version": "0.10.0",
+    "filename": "lovely-v0.10.0.zip",
+    "url": "https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.10.0/lovely-x86_64-pc-windows-msvc.zip",
+    "sha256": "7f481f984ab8ee633c90ce18220c88a2da8f93ca86b6c3e3ff70a725c05807ab"
+  },
+  "steamodded": {
+    "version": "26.829.0",
+    "filename": "steamodded-26.829.0.zip",
+    "url": "https://codeload.github.com/Steamodded/smods/zip/refs/tags/26.829.0",
+    "sha256": "1ecb7015a29c29ef507f515076c9e8a7aeffaf18dae009645f8da7b4483322cf"
+  },
+  "qtbase_source": {
+    "filename": "qtbase-6.11.2.tar.gz",
+    "url": "https://codeload.github.com/qt/qtbase/tar.gz/refs/tags/v6.11.2",
+    "sha256": "06cd7aa6b3ab19cb5a1664a2891ef0df960f78c97fa31b80b1d6d7ee70688414"
+  },
+  "qtsvg_source": {
+    "filename": "qtsvg-6.11.2.tar.gz",
+    "url": "https://codeload.github.com/qt/qtsvg/tar.gz/refs/tags/v6.11.2",
+    "sha256": "52a89c4efcb0cbe57bf85c71f5db50ef59184eeadf9972351202a9261a9bfa6e"
+  },
+  "pyside_source": {
+    "filename": "pyside-setup-6.11.2.tar.gz",
+    "url": "https://codeload.github.com/qtproject/pyside-pyside-setup/tar.gz/refs/tags/v6.11.2",
+    "sha256": "f07860ed91bcfd30e04afec869dcbb51984d5f32d8fff3ad766bd143096a2d43"
+  },
+  "compiler": {
+    "version": "6.7.3",
+    "filename": "innosetup-6.7.3.exe",
+    "url": "https://github.com/jrsoftware/issrc/releases/download/is-6_7_3/innosetup-6.7.3.exe",
+    "sha256": "9c73c3bae7ed48d44112a0f48e66742c00090bdb5bef71d9d3c056c66e97b732"
+  }
+}
