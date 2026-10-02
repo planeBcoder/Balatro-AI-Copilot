@@ -1,0 +1,12 @@
+{
+  "id": "balatro_copilot_autoplay",
+  "name": "Balatro Copilot Auto Play",
+  "display_name": "AI Copilot Auto Play (Experimental)",
+  "author": ["Codex"],
+  "description": "Opt-in current-Blind play/discard via normal game actions. No score, RNG or save editing. Escape cancels.",
+  "prefix": "bcauto",
+  "main_file": "main.lua",
+  "priority": 10020,
+  "version": "0.1.0",
+  "dependencies": ["Steamodded (>=1.0.0~ALPHA)", "balatro_copilot_hud"]
+}
