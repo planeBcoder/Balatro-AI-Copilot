@@ -1,0 +1,12 @@
+{
+  "id": "balatro_copilot_hud",
+  "name": "Balatro Copilot HUD",
+  "display_name": "AI Copilot Display",
+  "author": ["Codex"],
+  "description": "Display-only local AI suggestions. No network, credentials, RNG, scoring or save changes.",
+  "prefix": "bchud",
+  "main_file": "main.lua",
+  "priority": 10000,
+  "version": "0.2.0",
+  "dependencies": ["Steamodded (>=1.0.0~ALPHA)"]
+}
