@@ -1,0 +1,448 @@
+{
+  "ante": 1,
+  "balatro_version": "1.0.1o-FULL",
+  "blind": {
+    "boss": false,
+    "disabled": false,
+    "key": "bl_small",
+    "name": "Small Blind",
+    "target": "300"
+  },
+  "counts": {
+    "deck_remaining": 44,
+    "hand": 8,
+    "jokers": 0
+  },
+  "deck_remaining": [
+    {
+      "code": "2C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "2",
+      "rank_id": 2,
+      "suit": "Clubs"
+    },
+    {
+      "code": "QH",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Queen",
+      "rank_id": 12,
+      "suit": "Hearts"
+    },
+    {
+      "code": "8S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "8",
+      "rank_id": 8,
+      "suit": "Spades"
+    },
+    {
+      "code": "JH",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Jack",
+      "rank_id": 11,
+      "suit": "Hearts"
+    },
+    {
+      "code": "2D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "2",
+      "rank_id": 2,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "JC",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Jack",
+      "rank_id": 11,
+      "suit": "Clubs"
+    },
+    {
+      "code": "9D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "9",
+      "rank_id": 9,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "TD",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "10",
+      "rank_id": 10,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "5S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "5",
+      "rank_id": 5,
+      "suit": "Spades"
+    },
+    {
+      "code": "4D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "4",
+      "rank_id": 4,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "9S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "9",
+      "rank_id": 9,
+      "suit": "Spades"
+    },
+    {
+      "code": "9H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "9",
+      "rank_id": 9,
+      "suit": "Hearts"
+    },
+    {
+      "code": "3D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "3",
+      "rank_id": 3,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "6D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "6",
+      "rank_id": 6,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "KD",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "King",
+      "rank_id": 13,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "JD",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Jack",
+      "rank_id": 11,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "AC",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Ace",
+      "rank_id": 14,
+      "suit": "Clubs"
+    },
+    {
+      "code": "5H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "5",
+      "rank_id": 5,
+      "suit": "Hearts"
+    },
+    {
+      "code": "6C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "6",
+      "rank_id": 6,
+      "suit": "Clubs"
+    },
+    {
+      "code": "7C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "7",
+      "rank_id": 7,
+      "suit": "Clubs"
+    },
+    {
+      "code": "3S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "3",
+      "rank_id": 3,
+      "suit": "Spades"
+    },
+    {
+      "code": "8C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "8",
+      "rank_id": 8,
+      "suit": "Clubs"
+    },
+    {
+      "code": "3H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "3",
+      "rank_id": 3,
+      "suit": "Hearts"
+    },
+    {
+      "code": "KS",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "King",
+      "rank_id": 13,
+      "suit": "Spades"
+    },
+    {
+      "code": "7H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "7",
+      "rank_id": 7,
+      "suit": "Hearts"
+    },
+    {
+      "code": "KH",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "King",
+      "rank_id": 13,
+      "suit": "Hearts"
+    },
+    {
+      "code": "8D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "8",
+      "rank_id": 8,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "2H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "2",
+      "rank_id": 2,
+      "suit": "Hearts"
+    },
+    {
+      "code": "4C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "4",
+      "rank_id": 4,
+      "suit": "Clubs"
+    },
+    {
+      "code": "7D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "7",
+      "rank_id": 7,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "TC",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "10",
+      "rank_id": 10,
+      "suit": "Clubs"
+    },
+    {
+      "code": "5D",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "5",
+      "rank_id": 5,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "KC",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "King",
+      "rank_id": 13,
+      "suit": "Clubs"
+    },
+    {
+      "code": "QD",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Queen",
+      "rank_id": 12,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "8H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "8",
+      "rank_id": 8,
+      "suit": "Hearts"
+    },
+    {
+      "code": "9C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "9",
+      "rank_id": 9,
+      "suit": "Clubs"
+    },
+    {
+      "code": "TS",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "10",
+      "rank_id": 10,
+      "suit": "Spades"
+    },
+    {
+      "code": "AS",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Ace",
+      "rank_id": 14,
+      "suit": "Spades"
+    },
+    {
+      "code": "QS",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Queen",
+      "rank_id": 12,
+      "suit": "Spades"
+    },
+    {
+      "code": "QC",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Queen",
+      "rank_id": 12,
+      "suit": "Clubs"
+    },
+    {
+      "code": "AD",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Ace",
+      "rank_id": 14,
+      "suit": "Diamonds"
+    },
+    {
+      "code": "7S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "7",
+      "rank_id": 7,
+      "suit": "Spades"
+    },
+    {
+      "code": "2S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "2",
+      "rank_id": 2,
+      "suit": "Spades"
+    },
+    {
+      "code": "4S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "4",
+      "rank_id": 4,
+      "suit": "Spades"
+    }
+  ],
+  "discards_left": 4,
+  "discards_used": 0,
+  "exported_at": "2026-10-02T04:48:11Z",
+  "game_state": "SELECTING_HAND",
+  "hand": [
+    {
+      "code": "AH",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Ace",
+      "rank_id": 14,
+      "suit": "Hearts"
+    },
+    {
+      "code": "JS",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "Jack",
+      "rank_id": 11,
+      "suit": "Spades"
+    },
+    {
+      "code": "TH",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "10",
+      "rank_id": 10,
+      "suit": "Hearts"
+    },
+    {
+      "code": "6S",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "6",
+      "rank_id": 6,
+      "suit": "Spades"
+    },
+    {
+      "code": "6H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "6",
+      "rank_id": 6,
+      "suit": "Hearts"
+    },
+    {
+      "code": "5C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "5",
+      "rank_id": 5,
+      "suit": "Clubs"
+    },
+    {
+      "code": "4H",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "4",
+      "rank_id": 4,
+      "suit": "Hearts"
+    },
+    {
+      "code": "3C",
+      "debuffed": false,
+      "highlighted": false,
+      "rank": "3",
+      "rank_id": 3,
+      "suit": "Clubs"
+    }
+  ],
+  "hands_left": 4,
+  "hands_played": 0,
+  "jokers": [],
+  "money": 4,
+  "played_area": [],
+  "round": 1,
+  "schema_version": 1,
+  "score": "0"
+}
