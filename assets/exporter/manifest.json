@@ -1,0 +1,11 @@
+{
+  "id": "balatro_state_exporter",
+  "name": "Balatro State Exporter",
+  "display_name": "State Exporter",
+  "author": ["Codex"],
+  "description": "Read-only F8 export of the current Balatro state to clipboard, JSON, and TXT.",
+  "prefix": "bse",
+  "main_file": "main.lua",
+  "priority": 0,
+  "version": "0.1.0"
+}
